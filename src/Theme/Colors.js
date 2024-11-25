@@ -1,0 +1,22 @@
+export default {
+  textClr: '#333333',
+  whiteClr: '#FFFFFF',
+  ShadedColor: '#ACACAC26',
+  borderShadedClr: '#E7E7E7',
+  blueClr: '#005CB9',
+  transparent: 'transparent',
+  shadowColor: '#f4f4f4',
+  noteColor: '#d0d0d0',
+  SignupBtnClr: '#005CB9',
+  textShadowClr: '#ababab',
+  sliderWithAlpha: 'rgba(172, 172, 172, 0.4)',
+
+  background: '#ffffff',
+  text: '#333333',
+  label: '#555555',
+  border: '#cccccc',
+  inputBackground: '#f9f9f9',
+  primary: '#007BFF',
+  buttonText: '#ffffff',
+  error: 'red',
+};
