@@ -1,1 +1,1 @@
-# rn_redux_demo test first commit
+# rn_redux_demo test first commit inititial
